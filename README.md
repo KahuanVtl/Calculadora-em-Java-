@@ -1,15 +1,5 @@
 # CALCULADORA EM JAVA
 
-
-
-
-
-
-
-
-
-
-
 Projeto inteiramente criado em Java;<br><br>
 *Foram utilizados 2 arquivos: <br>
 -Principal.java;<br> 
@@ -18,9 +8,8 @@ Projeto inteiramente criado em Java;<br><br>
 <br>
 
 *Habilidades utilizadas:<br>
-- Fluxo de dados e ; <br>
+- Fluxo de dados; <br>
 - Operações Lógicas; <br>
 - Invocação ou Chamada de métodos; <br>
 - Bibliotecas Java; <br>
 - Dependências; <br>
-- 
