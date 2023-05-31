@@ -28,9 +28,9 @@ public class Principal {
         System.out.println("(6) Exponenciação");
         System.out.println("(7) Porcentagem");
 
-        System.out.println("==========RESULTADO==========");
         int operacao = S.nextInt();
-
+        System.out.println("==========RESULTADO==========");
+        
         switch(operacao){
             case 1:
                 System.out.println("Resultado da soma: " + calculo.soma());
